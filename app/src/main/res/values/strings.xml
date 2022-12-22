@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="Intro">Hello World! I\'m Grace and it\'s a pleasure to meowt you.</string>
+    <string name="button_text">Say Hello</string>
+</resources>
